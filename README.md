@@ -7,7 +7,7 @@ By the High School Remixed Teen Literacy Team: https://docs.google.com/document/
 
 
 ![credential preview](https://github.com/High-School-Remixed/teen-literacy-matters/blob/main/Black%20Teen%20Literacy%20Matters.pdf)
-![preview](images/previewpage1) ![preview](images/previewpage2)
+![preview](images/previewpage1.png) ![preview](images/previewpage2.png)
 
 
 
