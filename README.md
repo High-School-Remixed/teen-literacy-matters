@@ -1,6 +1,6 @@
 # teen-literacy-matters
 
-####An open source industry credential for high school credit
+#### An open source industry credential for high school credit
 
 ![preview](images/previewpage1.png) ![preview](images/previewpage2.png)
 
@@ -11,9 +11,9 @@ View the draft credential spec
 
 
 ___________________________________________________________
-
+#### Built By 
 ![team](images/team.png)
-Built by the High School Remixed
+The High School Remixed
 [Teen Literacy Team](https://docs.google.com/document/d/1cmw3UqX7Dio0qnjAAOIj53lcTPHESuryw6j9baSSr3I/edit?usp=sharing)
 
 
