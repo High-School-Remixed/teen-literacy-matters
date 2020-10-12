@@ -16,11 +16,10 @@ View the ![Current draft credential spec](https://github.com/High-School-Remixed
 
 
 #### Initially built and tested for Ohio's Industry Credentials program:
-Process for Adding new Industry-Recognized Credentials http://education.ohio.gov/Topics/Ohio-s-Graduation-Requirements/Industry-Recognized-Credentials/Process-for-adding-new-industry-recognized-credent
+[Process for Adding new Industry-Recognized Credentials](http://education.ohio.gov/Topics/Ohio-s-Graduation-Requirements/Industry-Recognized-Credentials/Process-for-adding-new-industry-recognized-credent)
 
 Application form for new industry credential: https://www.surveymonkey.com/r/TFM7QMW
 
-[Intro] (http://education.ohio.gov/Topics/Ohio-s-Graduation-Requirements/Industry-Recognized-Credentials)
 
+[Intro to Ohio's Industry Credentials Program](http://education.ohio.gov/Topics/Ohio-s-Graduation-Requirements/Industry-Recognized-Credentials)
 
-[Intro to Ohio's Industry Credentials Program] (http://education.ohio.gov/Topics/Ohio-s-Graduation-Requirements/Industry-Recognized-Credentials)
