@@ -5,7 +5,7 @@ https://docs.google.com/document/d/1cmw3UqX7Dio0qnjAAOIj53lcTPHESuryw6j9baSSr3I/
 
 ![preview](images/previewpage1.png) ![preview](images/previewpage2.png)
 
-![team](images/noun_group_2218264.png)
+![team](images/team.png)
 Built by the High School Remixed
 [Teen Literacy Team](https://docs.google.com/document/d/1cmw3UqX7Dio0qnjAAOIj53lcTPHESuryw6j9baSSr3I/edit?usp=sharing)
 
