@@ -1,9 +1,14 @@
 # teen-literacy-matters
 
-An open source industry credential for high school credit
-https://docs.google.com/document/d/1cmw3UqX7Dio0qnjAAOIj53lcTPHESuryw6j9baSSr3I/edit#
+####An open source industry credential for high school credit
 
 ![preview](images/previewpage1.png) ![preview](images/previewpage2.png)
+
+
+View the draft credential spec
+- [in PDF](https://github.com/High-School-Remixed/teen-literacy-matters/blob/main/Black%20Teen%20Literacy%20Matters.pdf)
+- [in Google Docs](https://github.com/High-School-Remixed/teen-literacy-matters/blob/main/Black%20Teen%20Literacy%20Matters.pdf)
+
 
 ___________________________________________________________
 
@@ -12,7 +17,6 @@ Built by the High School Remixed
 [Teen Literacy Team](https://docs.google.com/document/d/1cmw3UqX7Dio0qnjAAOIj53lcTPHESuryw6j9baSSr3I/edit?usp=sharing)
 
 
-View the ![Current draft credential spec](https://github.com/High-School-Remixed/teen-literacy-matters/blob/main/Black%20Teen%20Literacy%20Matters.pdf)
 
 
 
