@@ -3,7 +3,9 @@
 An open source industry credential for high school credit
 https://docs.google.com/document/d/1cmw3UqX7Dio0qnjAAOIj53lcTPHESuryw6j9baSSr3I/edit#
 
-By the ![High School Remixed Teen Literacy Team] (https://docs.google.com/document/d/1cmw3UqX7Dio0qnjAAOIj53lcTPHESuryw6j9baSSr3I/edit?usp=sharing)
+By the 
+[Team](https://docs.google.com/document/d/1cmw3UqX7Dio0qnjAAOIj53lcTPHESuryw6j9baSSr3I/edit?usp=sharing)
+[High School Remixed Teen Literacy Team] (https://docs.google.com/document/d/1cmw3UqX7Dio0qnjAAOIj53lcTPHESuryw6j9baSSr3I/edit?usp=sharing)
 
 : https://docs.google.com/document/d/1cmw3UqX7Dio0qnjAAOIj53lcTPHESuryw6j9baSSr3I/edit?usp=sharing
 
