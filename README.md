@@ -13,3 +13,5 @@ By the High School Remixed Teen Literacy Team: https://docs.google.com/document/
 Process for Adding new Industry-Recognized Credentials http://education.ohio.gov/Topics/Ohio-s-Graduation-Requirements/Industry-Recognized-Credentials/Process-for-adding-new-industry-recognized-credent
 
 Application form for new industry credential: https://www.surveymonkey.com/r/TFM7QMW
+
+Intro to Ohio's Industry Credentials Program: http://education.ohio.gov/Topics/Ohio-s-Graduation-Requirements/Industry-Recognized-Credentials
