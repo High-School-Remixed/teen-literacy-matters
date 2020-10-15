@@ -2,7 +2,7 @@
 
 #### An open source industry credential for high school credit
 
-![preview](images/previewpage1.png) ![preview](images/previewpage2.png)
+[![preview](images/previewpage1.png)](https://github.com/High-School-Remixed/teen-literacy-matters/blob/main/Black%20Teen%20Literacy%20Matters.pdf) [![preview](images/previewpage2.png)](https://github.com/High-School-Remixed/teen-literacy-matters/blob/main/Black%20Teen%20Literacy%20Matters.pdf)
 
 
 View the draft credential spec
