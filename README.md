@@ -1,6 +1,8 @@
 # teen-literacy-matters
 
 #### An open source industry credential for high school credit
+Black 4th graders are less than half as likely to be good readers. 
+How they are taught matters.
 
 [![preview](images/previewpage1.png)](https://github.com/High-School-Remixed/teen-literacy-matters/blob/main/Black%20Teen%20Literacy%20Matters.pdf) [![preview](images/previewpage2.png)](https://github.com/High-School-Remixed/teen-literacy-matters/blob/main/Black%20Teen%20Literacy%20Matters.pdf)
 
