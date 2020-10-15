@@ -1,8 +1,10 @@
 # teen-literacy-matters
 
 #### An open source industry credential for high school credit
+Black 4th graders are less than half as likely to be good readers.  
+The solution isn't nearly as hard as we'd thought.
 
-![preview](images/previewpage1.png) ![preview](images/previewpage2.png)
+[![preview](images/previewpage1.png)](https://github.com/High-School-Remixed/teen-literacy-matters/blob/main/Black%20Teen%20Literacy%20Matters.pdf) [![preview](images/previewpage2.png)](https://github.com/High-School-Remixed/teen-literacy-matters/blob/main/Black%20Teen%20Literacy%20Matters.pdf)
 
 
 View the draft credential spec
@@ -29,4 +31,6 @@ ___________________________________________________________
 - [Application form for new industry credential](https://www.surveymonkey.com/r/TFM7QMW)
 
 - [Intro to Ohio's Industry Credentials Program](http://education.ohio.gov/Topics/Ohio-s-Graduation-Requirements/Industry-Recognized-Credentials)
+
+[Draft application](https://github.com/High-School-Remixed/teen-literacy-matters/blob/main/Approval%20Process/Industry%20Credential%20App%20-%20Teen%20Literacy%20Matters.pdf)  
 
