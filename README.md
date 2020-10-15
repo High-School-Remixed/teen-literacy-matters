@@ -32,3 +32,5 @@ ___________________________________________________________
 
 - [Intro to Ohio's Industry Credentials Program](http://education.ohio.gov/Topics/Ohio-s-Graduation-Requirements/Industry-Recognized-Credentials)
 
+- [Draft application for Teen Literacy Matters credential](https://github.com/High-School-Remixed/teen-literacy-matters/blob/main/Approval%20Process/Industry%20Credential%20App%20-%20Teen%20Literacy%20Matters.pdf)  
+
