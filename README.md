@@ -8,6 +8,7 @@
 View the draft credential spec
 - [in PDF](https://github.com/High-School-Remixed/teen-literacy-matters/blob/main/Black%20Teen%20Literacy%20Matters.pdf)
 - [in Google Docs](https://github.com/High-School-Remixed/teen-literacy-matters/blob/main/Black%20Teen%20Literacy%20Matters.pdf)
+- [in Word](https://github.com/High-School-Remixed/teen-literacy-matters/blob/main/Content/Black%20Teen%20Literacy%20Matters.docx)
 
 
 ___________________________________________________________
