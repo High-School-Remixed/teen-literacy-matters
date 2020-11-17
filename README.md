@@ -9,7 +9,7 @@ The solution isn't nearly as hard as we'd thought.
 
 View the draft credential spec
 - [in PDF](https://github.com/High-School-Remixed/teen-literacy-matters/blob/main/Black%20Teen%20Literacy%20Matters.pdf)
-- [in Google Docs](https://github.com/High-School-Remixed/teen-literacy-matters/blob/main/Black%20Teen%20Literacy%20Matters.pdf)
+- [in Google Docs](https://docs.google.com/document/d/1cmw3UqX7Dio0qnjAAOIj53lcTPHESuryw6j9baSSr3I/edit?usp=sharing)
 - [in Word](https://github.com/High-School-Remixed/teen-literacy-matters/blob/main/Content/Black%20Teen%20Literacy%20Matters.docx)
 
 
