@@ -1,7 +1,8 @@
 # teen-literacy-matters
 
 #### An open source industry credential for high school credit
-Black 4th graders are less than half as likely to be good readers.  
+Systemic racism has many forms, few more hurtful than the denial of basic reading skills.                         
+ 
 The solution isn't nearly as hard as we'd thought.
 
 [![preview](images/previewpage1.png)](https://github.com/High-School-Remixed/teen-literacy-matters/blob/main/Black%20Teen%20Literacy%20Matters.pdf) [![preview](images/previewpage2.png)](https://github.com/High-School-Remixed/teen-literacy-matters/blob/main/Black%20Teen%20Literacy%20Matters.pdf)
@@ -9,7 +10,7 @@ The solution isn't nearly as hard as we'd thought.
 
 View the draft credential spec
 - [in PDF](https://github.com/High-School-Remixed/teen-literacy-matters/blob/main/Black%20Teen%20Literacy%20Matters.pdf)
-- [in Google Docs](https://docs.google.com/document/d/1cmw3UqX7Dio0qnjAAOIj53lcTPHESuryw6j9baSSr3I/edit?usp=sharing)
+- [in Google Docs](https://docs.google.com/document/d/1cmw3UqX7Dio0qnjAAOIj53lcTPHESuryw6j9baSSr3I/edit?usp=sharing) (Most Current)
 - [in Word](https://github.com/High-School-Remixed/teen-literacy-matters/blob/main/Content/Black%20Teen%20Literacy%20Matters.docx)
 
 
